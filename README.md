@@ -1,4 +1,5 @@
 # NgxCatpcha
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/106526a307eb4dabb1af3b316b2fe7c3)](https://www.codacy.com/manual/julio.cesar.rada.g/angularprueba?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JulioRada/angularprueba&amp;utm_campaign=Badge_Grade)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
 
