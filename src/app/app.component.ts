@@ -22,4 +22,11 @@ export class AppComponent {
         useGlobalDomain: false
     });
   }
+  iniciar2() {
+    this.reCaptchaV3Service.execute(this.siteKey, 'homepage', (token) => {
+      console.log('This is your token: ', token);
+    }, {
+        useGlobalDomain: false
+    });
+  }
 }
